@@ -57,4 +57,4 @@ Follow this [link](https://blog.csdn.net/qq_44940689/article/details/132686143?o
 
 ## Install ROS Noetic
 
-Follow this [link](Ubuntu&ROS)
+Follow this [link](https://github.com/alstondu/My-Ubuntu/blob/main/doc/Ubuntu%26ROS.pdf)
