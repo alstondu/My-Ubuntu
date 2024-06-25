@@ -10,7 +10,7 @@ Follow this [link](https://blog.csdn.net/weixin_43569276/article/details/9458741
 cd Documents/
 git clone git@github.com:openhacker/backport_iwlwifi.git
 cd backport_iwlwifi
-sudo make defconfig-wilwifi-public
+sudo make defconfig-iwlwifi-public
 sudo make
 sudo make install
 reboot
@@ -47,6 +47,14 @@ reboot
 	```-> Additional Drivers```
 	
 	```-> Using NVIDIA driver metapackage from nvidia-driver-535 (proprietary)```
+	
+## Error: can not access ubutnu UI
+
+CTRL + ALT + F2, login, then:
+
+```
+sudo service gmd3 start
+```
 
 ## Install VSCode
 Follow this [link](https://code.visualstudio.com/docs/setup/linux)
