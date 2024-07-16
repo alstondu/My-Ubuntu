@@ -53,7 +53,7 @@ reboot
 CTRL + ALT + F2, login, then:
 
 ```
-sudo service gdm3 start
+sudo service gdm3 restart
 ```
 
 ## Install VSCode
